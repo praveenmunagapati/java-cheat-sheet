@@ -1,14 +1,9 @@
-# Java Tutorial For Beginners - A Cheat Sheet
+# Java Tutorial For Beginners 
 
 Review Java 9 Concepts at Jet Speed.
 
 ### Complete Java Course
-[![Image](https://www.springboottutorial.com/images/Course-Java-Programming-for-Complete-Beginners-in-250-Steps.png "Java 9 Programming for Complete Beginners in 250 Steps
-")](https://links.in28minutes.com/MISC-JAVA)
 
-[![Image](https://www.springboottutorial.com/images/Course-Python-Programming-For-Java-Programmers-in-100-Easy-Steps.png "Python For Beginners - Java to Python in 100 Steps")](https://links.in28minutes.com/MISC-JAVA-PYTHON)
-
-[![Image](https://www.springboottutorial.com/images/Course-Learn-Functional-Programming-with-Java.png "Azure Crash Course for Java Spring Boot Developers")](https://links.in28minutes.com/MISC-FP)
 ## Introduction
 
 ## Background
@@ -7609,22 +7604,3 @@ Where are objects created? Where are strings created?
     - Error is a first class citizen
     - Handle errors down stream
 
-### Complete Java Course
-
-[![Image](https://www.springboottutorial.com/images/Course-Java-Programming-for-Complete-Beginners-in-250-Steps.png "Java 9 Programming for Complete Beginners in 250 Steps
-")](https://links.in28minutes.com/MISC-JAVA)
-
-[![Image](https://www.springboottutorial.com/images/Course-Python-Programming-For-Java-Programmers-in-100-Easy-Steps.png "Python For Beginners - Java to Python in 100 Steps")](https://links.in28minutes.com/MISC-JAVA-PYTHON)
-
-[![Image](https://www.springboottutorial.com/images/Course-Learn-Functional-Programming-with-Java.png "Azure Crash Course for Java Spring Boot Developers")](https://links.in28minutes.com/MISC-FP)
-
-### Troubleshooting
-- Refer our TroubleShooting Guide - https://github.com/in28minutes/in28minutes-initiatives/tree/master/The-in28Minutes-TroubleshootingGuide-And-FAQ
-
-## Youtube Playlists - 500+ Videos
-
-[Click here - 30+ Playlists with 500+ Videos on Spring, Spring Boot, REST, Microservices and the Cloud](https://www.youtube.com/user/rithustutorials/playlists?view=1&sort=lad&flow=list)
-
-## Keep Learning in28Minutes
-
-in28Minutes is creating amazing solutions for you to learn Spring Boot, Full Stack and the Cloud - Docker, Kubernetes, AWS, React, Angular etc. - [Check out all our courses here](https://github.com/in28minutes/learn)
